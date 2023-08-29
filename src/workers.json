@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Jan",
+    "surname": "Novak",
+    "gender": "MEN"
+  },
+  {
+    "id": 2,
+    "name": "Lenka",
+    "surname": "Zelena",
+    "gender": "WOMEN"
+  },
+  {
+    "id": 3,
+    "name": "Pavel",
+    "surname": "Kulihrach",
+    "gender": "MEN"
+  },
+  {
+    "id": 4,
+    "name": "Romana",
+    "surname": "Dutá",
+    "gender": "WOMEN"
+  },
+  {
+    "id": 5,
+    "name": "Alžběta",
+    "surname": "Prokopová",
+    "gender": "WOMEN"
+  },
+  {
+    "id": 6,
+    "name": "Tomáš",
+    "surname": "Polák",
+    "gender": "MEN"
+  },
+  {
+    "id": 7,
+    "name": "Richard",
+    "surname": "Suchánek",
+    "gender": "MEN"
+  }
+]
